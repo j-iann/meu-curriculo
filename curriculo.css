@@ -28,6 +28,10 @@ h2 {
 	align-items: center;
 }
 
+.perfil aside {
+	color: #19304F;
+}
+
 .perfil-info {
 	margin-top: 35px;
 	display: inline-block;
